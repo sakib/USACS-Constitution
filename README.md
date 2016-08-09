@@ -95,3 +95,4 @@ formed and maintained in response to member interest in specific topic areas of 
 ## ARTICLE XIII – Rules Of Conduct
 1. This organization shall abide by all applicable laws of the State of New Jersey and the United States.
 2. This organization shall abide by all applicable rules and regulations of the University and under the privileges as granted by the Office of Student Affairs and by the rules and regulations of the Board of Governors.
+# USACS-Constitution
